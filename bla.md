@@ -12,4 +12,4 @@ in a block
 
 * run dis command "` git push `"
 
-class diagram: ![Alt](http://imgur.com/a/QRTcI)
+class diagram: [link](http://imgur.com/a/QRTcI)
